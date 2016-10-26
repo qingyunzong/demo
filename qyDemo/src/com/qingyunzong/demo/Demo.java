@@ -2,6 +2,6 @@ package com.qingyunzong.demo;
 
 public class Demo {
 	public static void main(String[] args) {
-		System.out.println("WE ARE NIUBILITY!!!");
+		System.out.println("WE ARE NIUBILITY!!!test");
 	}
 }
